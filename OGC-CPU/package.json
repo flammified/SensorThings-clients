@@ -1,0 +1,22 @@
+{
+  "name": "ogc-cpu",
+  "version": "1.0.0",
+  "description": "Quick OGC SensorThings compatible program that sends CPU usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ogc",
+    "sensorthings",
+    "cpu",
+    "usage"
+  ],
+  "author": "Alexander Freeman",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "moment": "^2.14.1",
+    "request": "^2.74.0"
+  }
+}
